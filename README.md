@@ -2,9 +2,9 @@
 
 **Mod for Minecraft 26.2, 26.3** — NeoForge build, maintained by [9Minecraft Studios](https://www.9minecraft.net/).
 
-[![Download](https://img.shields.io/badge/Download-9Minecraft.net-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://9minecraft.net/astral-sorcery-9minecraft-mod/)
+[![Download](https://img.shields.io/badge/Download-9Minecraft.net-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.9minecraft.net/astral-sorcery-9minecraft-mod/)
 
-> ➤ **Download:** https://9minecraft.net/astral-sorcery-9minecraft-mod/
+> ➤ **Download:** https://www.9minecraft.net/astral-sorcery-9minecraft-mod/
 
 This repository is **documentation only** — it holds no mod files and no source code. Everything that can be downloaded lives on the page linked above.
 
@@ -47,10 +47,11 @@ The repository stops here. These live on the download page:
 - what changed in each release
 - the mods this one needs alongside it, if any
 
-➤ **https://9minecraft.net/astral-sorcery-9minecraft-mod/**
+➤ **https://www.9minecraft.net/astral-sorcery-9minecraft-mod/**
 
 ## Credits
 
+- Original work: **HellFirePvP**
 - This port: **9Minecraft Studios** — https://www.9minecraft.net/
 - Licence: All rights reserved (original licence text ships inside the download)
 
