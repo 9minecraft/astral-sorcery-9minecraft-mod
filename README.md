@@ -8,6 +8,13 @@ Built and maintained in-house by 9Minecraft Studios.
 
 Loader: NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | NeoForge |
+| 26.2 | NeoForge |
+
 ## Source
 
 The original is not released under terms that let us republish its code, so there is none here and there will not be. This repository is notes and nothing more.
